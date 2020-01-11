@@ -1,0 +1,13 @@
+.form-inline.my-2.my-lg-0{
+    margin-top:2% !important;
+    margin-left:39% !important
+}
+
+@media screen and (max-width: 600px) {
+    .form-inline.my-2.my-lg-0{
+        margin-top:5% !important;
+        margin-left:10% !important;
+        margin-right:10% ;
+        
+    }
+  }

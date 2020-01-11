@@ -1,0 +1,15 @@
+.navbar.navbar-light{
+    padding-left: 42%;
+    text-align: center !important;
+    font-family: 'Girassol', cursive;
+    color: #F95759;
+    text-shadow: 1.5px 1.5px #FF362E;
+    
+}
+
+@media screen and (max-width: 500px) {
+    .navbar.navbar-light{
+        padding-left: 30%;
+        text-align: center !important;
+    }
+  }
